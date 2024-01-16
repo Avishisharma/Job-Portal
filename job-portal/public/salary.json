@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "title": "Warehouse Associate",
+        "salary": "Average Salary Rs34,331 per year",
+        "status": "Job Openings",
+        "skills": "Skills"
+    },
+    {
+        "id": 2,
+        "title": "Backend Developer",
+        "salary": "Average Salary Rs46,052 per year",
+        "status": "Job Openings",
+        "skills": "Skills"
+    },
+    {
+        "id": 3,
+        "title": "Front Desk Agent",
+        "salary": "Average Salary Rs43,402 per year",
+        "status": "Job Openings",
+        "skills": "Skills"
+    },
+    {
+        "id": 4,
+        "title": "Crew Member",
+        "salary": "Average Salary Rs44,781 per year",
+        "status": "Job Openings",
+        "skills": "Skills"
+    },
+    {
+        "id": 5,
+        "title": "Software Engineer",
+        "salary": "Average Salary Rs102,781 per year",
+        "status": "Job Openings",
+        "skills": "Skills"
+    },
+    {
+        "id": 6,
+        "title": "App Developer",
+        "salary": "Average Salary Rs92,781 per year",
+        "status": "Job Openings",
+        "skills": "Skills"
+    },
+    {
+        "id": 7,
+        "title": "UI/UX Designer",
+        "salary": "Average Salary Rs108,781 per year",
+        "status": "Job Openings",
+        "skills": "Skills"
+    },
+    {
+        "id": 8,
+        "title": "Web Developer",
+        "salary": "Average Salary Rs88,601 per year",
+        "status": "Job Openings",
+        "skills": "Skills"
+    },
+    {
+        "id": 9,
+        "title": "Full Stack Developer",
+        "salary": "Average Salary Rs88,601 per year",
+        "status": "Job Openings",
+        "skills": "Skills"
+    }
+]
